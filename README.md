@@ -1,3 +1,3 @@
 # 100daysofcode
 
-Documenting daily progress heere
+Documenting daily progress here
