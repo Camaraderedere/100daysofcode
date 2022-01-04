@@ -2,4 +2,4 @@
 
 Documenting daily progress here
 
-Most of this is from freecodecamp btw
+Some of these are my own projects but most are from freecodecamp
