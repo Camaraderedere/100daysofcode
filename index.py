@@ -1,0 +1,11 @@
+
+print("It's real, real me, real, real me")
+print("낯설겠지 but 너도 알게 될거야")
+print("지금의 내 모습은 zero 예전의 나는 지워")
+s="shake it off"
+print("I'm gonna " + s + " you better " + s)
+a="Attitude"
+print(a)
+attitude="I got new attitude"
+print(attitude,attitude)
+print("I got new A-T-T-I-T-U-D-E")
